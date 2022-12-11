@@ -1,8 +1,7 @@
-# curriculum-databases-projects-template
+# Vet Clinic
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
-
+> Project description
+> "Vet Clinic" is asimple project that creates data structure for a vet clinic. It mimics the daily activities in a typical veterinary clinic capturing data from animals, animals' owners, clinic employees and visits
 
 ## Getting Started
 
@@ -15,23 +14,17 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+👤 **Suleiman Olaide**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/ceemos96)
+- Twitter: [@twitterhandle](https://twitter.com/ceemos_dev)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/suleiman-olaide)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Ceemos96/vet-clinic-1/issues).
 
 ## Show your support
 
@@ -39,10 +32,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+- Microverse
