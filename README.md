@@ -1,7 +1,10 @@
 # Vet Clinic
 
-> Project description
-> "Vet Clinic" is asimple project that creates data structure for a vet clinic. It mimics the daily activities in a typical veterinary clinic capturing data from animals, animals' owners, clinic employees and visits
+## Project description
+> "Vet Clinic" is a simple project that creates data structure for a vet clinic. It mimics the daily activities in a typical veterinary clinic capturing data from animals, animals' owners, clinic employees and visits
+
+## Built with
+- SQL
 
 ## Getting Started
 
