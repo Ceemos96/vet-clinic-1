@@ -6,6 +6,14 @@
 ## Built with
 - SQL
 
+
+## Getting Started
+
+- You can clone this repo by typing `git clone https://github.com/Ceemos96/vet-clinic-1` on your terminal.
+
+- Type `cd vet-clinic-1` to access the project on the terminal.
+
+
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
