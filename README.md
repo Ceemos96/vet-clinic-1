@@ -31,6 +31,12 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Twitter: [@twitterhandle](https://twitter.com/ceemos_dev)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/suleiman-olaide)
 
+👤 **Vitalis Mutwiri**
+
+- GitHub: [@svitalis123](https://github.com/svitalis123)
+- Twitter: [@vitaliswilson](https://twitter.com/vitaliswilson)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/vitalismutwiri/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
